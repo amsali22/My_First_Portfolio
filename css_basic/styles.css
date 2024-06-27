@@ -11,11 +11,15 @@ main {
     flex: auto;
 }
 
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
 article {
     flex: 2;
     overflow-y: auto;
 }
-
 aside {
     flex: 1;
     overflow-y: auto;
